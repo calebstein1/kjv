@@ -4,7 +4,7 @@
 
 Read the Word of God from your terminal
 
-Forked from (layeh/kjv)[https://github.com/layeh/kjv] to include apocrypha, sourced from (lukesmithxyz/kjv)[https://github.com/lukesmithxyz/kjv].
+Forked from [layeh/kjv](https://github.com/layeh/kjv) to include apocrypha, sourced from [lukesmithxyz/kjv](https://github.com/lukesmithxyz/kjv).
 
 ## Usage
 
