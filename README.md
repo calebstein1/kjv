@@ -4,6 +4,8 @@
 
 Read the Word of God from your terminal
 
+Forked from (layeh/kjv)[https://github.com/layeh/kjv] to include apocrypha, sourced from (lukesmithxyz/kjv)[https://github.com/lukesmithxyz/kjv].
+
 ## Usage
 
     usage: kjv [flags] [reference...]
@@ -43,12 +45,12 @@ Read the Word of God from your terminal
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+kjv can be built by cloning the repository and then running gmake:
 
-    git clone https://github.com/layeh/kjv.git
+    git clone https://github.com/calebstein1/kjv.git
     cd kjv
-    make
-    sudo make install
+    gmake
+    doas make install
 
 ## License
 
